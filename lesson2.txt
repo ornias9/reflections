@@ -20,7 +20,7 @@ answered above
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-pre logical change add in staging area and commit
+per logical change add in staging area and commit
 
 
 
@@ -44,3 +44,8 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+
